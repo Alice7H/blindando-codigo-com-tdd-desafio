@@ -27,5 +27,5 @@ Adicionados os métodos:
 
 ## Prática - Parte 3
 
-Codificando as regras de negócios
-Executando os testes durantes a codificação.
+- Codificando as regras de negócios
+- Executando os testes durantes a codificação.
